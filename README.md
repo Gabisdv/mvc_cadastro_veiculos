@@ -50,4 +50,5 @@ O código em si foi feito por mim, baseado em um MVC que já havia desenvolvido 
 
 ## VÍDEO
 
-Deixei um vídeo com o sistema funcionando para melhor entendimento do projeto.
+Deixei um vídeo com o sistema funcionando para melhor entendimento do projeto. Segue link abaixo.
+https://drive.google.com/file/d/1ImYEbFaixm4tdIbI3_R6hvCkGFyHy43B/view?usp=sharing
